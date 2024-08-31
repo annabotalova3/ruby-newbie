@@ -1,1 +1,2 @@
 puts 'goodbye'
+puts 'hello'
